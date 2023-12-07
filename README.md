@@ -42,7 +42,49 @@ Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data
 - [Brief explanation of implementation choices]
 
 ### Flow Chart:
-[Insert flow chart here]
+<h2>
+    <a>
+    <img src="./.github/assets/flowchart.png">
+    </a>
+</h2>
+
+```shell
+Start
+|
+v
+Camera Image Capture
+|
+v
+CNN Object Detection
+|
+v
+Robotic Vision - Coordinates Extraction
+|
+v
+Inverse Kinematics Calculation
+|
+v
+Robotic Arm Movement
+|
+v
+Recyclable Pickup
+|
+v
+Recyclable Classification
+|
+v
+Bin Selection
+|
+v
+Robotic Arm Placement
+|
+v
+Recyclable Disposal
+|
+v
+End
+
+```
 
 ### Data Flow:
 [Describe how different components interface with each other]

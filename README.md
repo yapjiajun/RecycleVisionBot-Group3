@@ -36,7 +36,7 @@ To ensure our system accurately classifies recyclables, we utilized CCHANGCS' [G
 
 <h2> Fully Connected Network 10 Epoch (FCN)
     <a></a>
-    <img src="./.github/assets/plot_fcn2.png">
+    <img src="./.github/assets/plot_fcn10.png">
     </a>
 </h2>
 

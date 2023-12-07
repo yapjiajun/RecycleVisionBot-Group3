@@ -128,7 +128,10 @@ YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/
 
 YouTube Link: https://drive.google.com/file/d/1aNx444UxDq-3Dh4J92JkWOmINE44j2wp/view?usp=sharing
 #### Results
-<img width=100 alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/19db8990-f95f-4343-b9b1-60a9fdf6738b">
+<img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/19db8990-f95f-4343-b9b1-60a9fdf6738b">
+
+### Summary
+<img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/2a527482-7fef-432e-b58a-c54cb8ab46fb">
 
 
 

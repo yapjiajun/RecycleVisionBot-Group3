@@ -105,17 +105,32 @@ End
 ### Final Implementation (Top View)
 <img src="./.github/assets/top.png" width=100%>
 
-### FCN Model Demo
+### FCN Model 
+#### Demo
 <img src="./.github/assets/fcn_demo2.gif" width=100%>
 
 YouTube Link: https://youtu.be/isSXq3LtBTI
+#### Results
+<img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/e642694b-afe9-404e-8714-227ee75dbf52">
 
-- Images of final implementation
-- GIFs showcasing system in action
-- Embedded videos from YouTube
-- Quantitative data presented in tables or plots
-- Qualitative performance discussion
-- Evaluation against pre-determined success metrics
+### FCN 100 Model 
+#### Demo
+<img src="./.github/assets/fcn_demo2.gif" width=100%>
+
+YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/view?usp=sharing
+#### Results
+<img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/f4875a3d-d23a-4ad6-92be-d728f3707a85">
+
+
+### CNN Model 
+#### Demo
+<img src="./.github/assets/fcn_demo2.gif" width=100%>
+
+YouTube Link: https://drive.google.com/file/d/1aNx444UxDq-3Dh4J92JkWOmINE44j2wp/view?usp=sharing
+#### Results
+<img width=100 alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/19db8990-f95f-4343-b9b1-60a9fdf6738b">
+
+
 
 ## Conclusion
 In summary, the preliminary implementation of the RecycleVisionBot (ReViBot) showcases the practical application of concepts acquired in our coursework. By seamlessly integrating machine learning models and computer vision, the system  categorizes a diverse array of recyclables, directing the robotic arm to execute precise sorting into designated compartments. Looking forward, our future developments include the exploration of alternative models such as the YOLOv8 Architecture, and the incorporation of datasets from various sources to enhance the model's adaptability to a broader spectrum of recyclable items and environmental conditions.

@@ -110,7 +110,7 @@ End
 
 ### FCN Model 
 #### Demo
-<img src="./.github/assets/fcn_demo2.gif" width=100%>
+<img src="./.github/assets/fcn_demo3.gif" width=100%>
 
 YouTube Link: https://youtu.be/isSXq3LtBTI
 #### Results
@@ -118,7 +118,7 @@ YouTube Link: https://youtu.be/isSXq3LtBTI
 
 ### FCN 100 Model 
 #### Demo
-<img src="./.github/assets/fcn100_demo.gif" width=100%>
+<img src="./.github/assets/fcn100_demo3.gif" width=100%>
 
 YouTube Link: https://youtu.be/MIUU-kLel6o
 #### Results
@@ -127,7 +127,7 @@ YouTube Link: https://youtu.be/MIUU-kLel6o
 
 ### CNN Model 
 #### Demo
-<img src="./.github/assets/cnn_demo.gif" width=100%>
+<img src="./.github/assets/cnn_demo3.gif" width=100%>
 
 YouTube Link: https://youtu.be/when7eXWAnw
 #### Results

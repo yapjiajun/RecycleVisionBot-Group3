@@ -11,7 +11,7 @@
 </p>
 
 ## Introduction
-Given the current recycling rate of 32% in the United States (EPA, 2018), it is evident that refining our recyclable sorting methods is imperative to avoid misclassification and landfill disposal. This prompted the exploration of a robotic sorting system capable of accurately and efficiently sorting various recyclables on a conveyor belt. The objective is to overcome misclassification challenges, enhance overall recycling efficiency, and apply the knowledge acquired from the ECSE275 course to advance this project.
+Given the current recycling rate of 32% in the United States (EPA, 2018), it is evident that refining our recyclable sorting methods is imperative to avoid misclassification at landfill disposal. This prompted the exploration of a robotic sorting system capable of accurately and efficiently sorting various recyclables on a conveyor belt. The objective is to overcome misclassification challenges, enhance overall recycling efficiency, and apply the knowledge acquired from the ECSE275 course to advance this project.
 
 ## Approach
 ### Building Blocks (Concepts):

@@ -140,6 +140,7 @@ In summary, the preliminary implementation of the RecycleVisionBot (ReViBot) sho
 
 While the initial results were higher than random selection, they illustrated a starting point for the refinement of the system. A few areas were identified for further investigation. 1) The Neural Networks were not validated outside of the simulation environment. This would be the first place to set a baseline to determine if the Neural Networks needed further refining or the test environment. 2) The simulation uses a 512px x 512px vision sensor to analyze the images. each cube is approximately 18px x 18px within the sensor, however, the training data uses images with a resolution of 512px x 384px. Thus, to perform analysis on the test cubes, the small cube image was rescaled from 18px x 18px to 512px x 384px. Increasing the resolution of the vision sensor would most likely lead to improved results. These opportunities for further development of the research show potential for the final application of RecycleVision Bot
 
+*Coming Soon: Investigation into Vision Sensor Height!*
 ## Contributors
 `Jules Siegel (Leader)`: Spearheading the integration of the environment in CoppeliaSim by skillfully incorporating the Franka Emika Panda 7 DOF Robotic Arm and seamlessly integrating a conveyor belt system. Responsible for meticulously configuring the initial environment settings to ensure optimal functionality.
 

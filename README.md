@@ -120,7 +120,7 @@ YouTube Link: https://youtu.be/isSXq3LtBTI
 #### Demo
 <img src="./.github/assets/fcn100_demo.gif" width=100%>
 
-YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/view?usp=sharing
+YouTube Link: https://youtu.be/MIUU-kLel6o
 #### Results
 <img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/f4875a3d-d23a-4ad6-92be-d728f3707a85">
 
@@ -129,7 +129,7 @@ YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/
 #### Demo
 <img src="./.github/assets/cnn_demo.gif" width=100%>
 
-YouTube Link: https://drive.google.com/file/d/1aNx444UxDq-3Dh4J92JkWOmINE44j2wp/view?usp=sharing
+YouTube Link: https://youtu.be/when7eXWAnw
 #### Results
 <img width=100% alt="image" src="https://github.com/yapjiajun/RecycleVisionBot-Group3/assets/152318869/19db8990-f95f-4343-b9b1-60a9fdf6738b">
 

@@ -41,11 +41,15 @@ Our motivation is to address the challenges in recycling by implementing a 7 DOF
 In summary, we successfully implemented a RecycleVisionBot using advanced robotics concepts. Future development could include [mention potential improvements or expansions]. The project represents a significant step toward efficient and automated recycling processes.
 
 ## Contributors
-- Jules Siegel: Implemention of Environment in CoppeliaSim
-- Emily Hawkins: Robot Performance Testing
-- Jacob Boling: Training of ML Models
-- Yap Jia Jun: Documentation of Finds and Results
-- Juan Beaver: Implementation of ML Model to the CoppeliaSim
+`Jules Siegel (Leader)`: Spearheading the integration of the environment in CoppeliaSim by skillfully incorporating the Franka Emika Panda 7 DOF Robotic Arm and seamlessly integrating a conveyor belt system. Responsible for meticulously configuring the initial environment settings to ensure optimal functionality.
+
+`Emily Hawkins (Test)`: Conducting rigorous Robot Performance Testing to assess the efficacy of various Machine Learning Models in efficiently sorting recyclables. Utilizing a comprehensive approach to evaluate and identify the best-performing models that meet the project's requirements.
+
+`Jacob Boling (ML/AI)`: Taking charge of the training process for diverse Machine Learning Models, experimenting with different parameters to enhance their performance. Engaging in thorough exploration and optimization to achieve superior results in model training.
+
+`Yap Jia Jun (Document)`: Playing a pivotal role in the project's documentation phase by capturing and articulating detailed findings and results. Creating comprehensive documentation that not only highlights key insights but also serves as a valuable resource for future reference.
+
+`Juan Beaver (Integration)`: Orchestrating the seamless integration of trained Machine Learning Models into CoppeliaSim, ensuring a cohesive and efficient implementation. Focusing on the smooth transition from training to real-world application, Juan plays a crucial role in bridging the gap between theoretical models and practical simulation environments.
 
 [//]: contributor-faces
 <a href="https://github.com/JulesSiegel"><img src="https://avatars.githubusercontent.com/u/152318869?v=4" title="jules-siegel" width="50" height="50"></a>
@@ -53,7 +57,6 @@ In summary, we successfully implemented a RecycleVisionBot using advanced roboti
 <a href="https://github.com/JacobBoling"><img src="https://avatars.githubusercontent.com/u/82610978?v=4" title="jacob-boling" width="50" height="50"></a>
 <a href="https://github.com/yapjiajun"><img src="https://avatars.githubusercontent.com/u/79196462?v=4" title="yap-jia-jun" width="50" height="50"></a>
 <a href="https://github.com/juanbeaver"><img src="https://avatars.githubusercontent.com/u/27016289?v=4" title="juan-beaver" width="50" height="50"></a>
-[//]: contributor-faces
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

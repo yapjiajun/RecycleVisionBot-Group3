@@ -115,7 +115,7 @@ YouTube Link: https://youtu.be/isSXq3LtBTI
 
 ### FCN 100 Model 
 #### Demo
-<img src="./.github/assets/fcn_demo2.gif" width=100%>
+<img src="./.github/assets/fcn100_demo.gif" width=100%>
 
 YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/view?usp=sharing
 #### Results
@@ -124,7 +124,7 @@ YouTube Link: https://drive.google.com/file/d/1XK-QQi5qijxYB7IB-gRo6g3SknBNv2Pu/
 
 ### CNN Model 
 #### Demo
-<img src="./.github/assets/fcn_demo2.gif" width=100%>
+<img src="./.github/assets/cnn_demo.gif" width=100%>
 
 YouTube Link: https://drive.google.com/file/d/1aNx444UxDq-3Dh4J92JkWOmINE44j2wp/view?usp=sharing
 #### Results

@@ -4,7 +4,11 @@
     </a>
 </h1>
 
-# RecycleVisionBot Group3
+<h1> RecycleVisionBot (Group 3) </h1>
+
+<p align="center">
+  <i align="center">A Recycle Robot that uses ML/AI to sort through recyclables ♻️ </i>
+</p>
 
 ## Introduction
 Our motivation is to address the challenges in recycling by implementing a 7 DOF Robot for sorting various recyclables. Items on a conveyor belt have random positions, and the robot, equipped with a Lidar sensor, uses deep learning to identify each item's category. Open Motion Planning Library (OMPL) and Simulation Inverse Kinematics (simIK) are employed to move the object to the correct box.

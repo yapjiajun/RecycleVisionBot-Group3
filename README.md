@@ -46,9 +46,6 @@ To ensure our system accurately classifies recyclables, we utilized CCHANGCS' [G
     </a>
 </h2>
 
-Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data
-
-
 ### Flow Chart:
 <h2>
     <a>

@@ -101,7 +101,7 @@ End
 <img src="./.github/assets/demo1.png" width=100%>
 
 ### FCN Model Demo
-<img src="./.github/assets/fcn_demo.gif" width=100%>
+<img src="./.github/assets/fcn_demo2.gif" width=100%>
 
 YouTube Link: https://youtu.be/isSXq3LtBTI
 

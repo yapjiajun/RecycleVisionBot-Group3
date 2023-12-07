@@ -96,9 +96,11 @@ End
 
 
 ## Results
-### Final Implementation 
-
+### Final Implementation (Side View)
 <img src="./.github/assets/demo1.png" width=100%>
+
+### Final Implementation (Top View)
+<img src="./.github/assets/top.png" width=100%>
 
 ### FCN Model Demo
 <img src="./.github/assets/fcn_demo2.gif" width=100%>

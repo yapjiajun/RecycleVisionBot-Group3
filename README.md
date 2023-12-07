@@ -34,7 +34,13 @@ Convolution Neural Network (CNN), a specific type of neural network, are great a
 
 To ensure our system accurately classifies recyclables, we utilized CCHANGCS' [Garbage Classification Kaggle Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification). It includes 6 categories: cardboard, glass, metal, paper, plastic, and general trash. We use both FCN and CNN Model to train our datasets for our specific use case, and subsequently evaluating their performance against each other.
 
-<h2> Fully Connected Network (FCN)
+<h2> Fully Connected Network 10 Epoch (FCN)
+    <a></a>
+    <img src="./.github/assets/plot_fcn2.png">
+    </a>
+</h2>
+
+<h2> Fully Connected Network 100 Epoch (FCN100)
     <a></a>
     <img src="./.github/assets/plot_fcn.png">
     </a>

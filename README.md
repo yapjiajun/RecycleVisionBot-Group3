@@ -25,21 +25,29 @@ Robot Vision involves equipping robots with the ability to perceive and interpre
 
 To enable the robot to precisely locate recyclables on the conveyor belt, we implement advanced robotic vision concepts. This involves tasks such as camera calibration, greyscaling the image, and coordinating transformations to accurately pinpoint the actual location of recyclables from the camera's perspective. By incorporating these vision techniques, we are able to allow the system to interpret visual data and make informed decisions in real-time, contributing to the efficiency and accuracy of the recycling process.
 
-#### Neural Network for Object Detection/CNN:
-Neural Network for Object Detection is a smart computer system that can spot and categorize things in pictures or videos. Convolution Neural Network (CNN), a specific type of neural network, are great at understanding visual details, making them useful for tasks like recognizing objects. 
+#### Neural Network for Object Detection:
+Neural Network for Object Detection is a smart computer system that can spot and categorize things in pictures or videos. 
 
-To ensure our system accurately classifies recyclables, we utilized MOSTAFA MOHAMED's Garbage Classification Kaggle Dataset. We chose out of the total 12 types, we picked 6 for our application: cardboard, glass, metal, paper, plastic, and general trash. Using a CNN Model, we trained our datasets for our specific use case, completing the training over 100 epochs.
+A Fully Connected Network (FCN) is a type of artificial neural network where each neuron in one layer is connected to every neuron in the subsequent layer. In an FCN, information flows bidirectionally, enabling complex relationships to be captured through learned weights and biases. 
 
-<h2>
-    <a>
-    <img src="./.github/assets/newplot.png">
+Convolution Neural Network (CNN), a specific type of neural network, are great at understanding visual details, making them useful for tasks like recognizing objects. 
+
+To ensure our system accurately classifies recyclables, we utilized MOSTAFA MOHAMED's Garbage Classification Kaggle Dataset. We chose out of the total 12 types, we picked 6 for our application: cardboard, glass, metal, paper, plastic, and general trash. We use both FCN and CNN Model to train our datasets for our specific use case, and subsequently evaluating their performance against each other.
+
+<h2> Fully Connected Network (FCN)
+    <a></a>
+    <img src="./.github/assets/plot_fcn.png">
+    </a>
+</h2>
+
+<h2> Convoluted Neural Network (CNN)
+    <a></a>
+    <img src="./.github/assets/plot_cnn.png">
     </a>
 </h2>
 
 Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data
 
-### Implementation:
-- [Brief explanation of implementation choices]
 
 ### Flow Chart:
 <h2>
@@ -86,10 +94,11 @@ End
 
 ```
 
-### Data Flow:
-[Describe how different components interface with each other]
 
 ## Results
+### FCN Model Demo
+<img src="./.github/assets/fcn_demo.gif" width=100%>
+
 - Images of final implementation
 - GIFs showcasing system in action
 - Embedded videos from YouTube

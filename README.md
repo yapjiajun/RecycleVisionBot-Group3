@@ -32,7 +32,7 @@ A Fully Connected Network (FCN) is a type of artificial neural network where eac
 
 Convolution Neural Network (CNN), a specific type of neural network, are great at understanding visual details, making them useful for tasks like recognizing objects. 
 
-To ensure our system accurately classifies recyclables, we utilized MOSTAFA MOHAMED's Garbage Classification Kaggle Dataset. We chose out of the total 12 types, we picked 6 for our application: cardboard, glass, metal, paper, plastic, and general trash. We use both FCN and CNN Model to train our datasets for our specific use case, and subsequently evaluating their performance against each other.
+To ensure our system accurately classifies recyclables, we utilized CCHANGCS' [Garbage Classification Kaggle Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification). It includes 6 categories: cardboard, glass, metal, paper, plastic, and general trash. We use both FCN and CNN Model to train our datasets for our specific use case, and subsequently evaluating their performance against each other.
 
 <h2> Fully Connected Network (FCN)
     <a></a>

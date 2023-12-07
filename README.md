@@ -96,6 +96,10 @@ End
 
 
 ## Results
+### Final Implementation 
+
+<img src="./.github/assets/demo1.png" width=100%>
+
 ### FCN Model Demo
 <img src="./.github/assets/fcn_demo.gif" width=100%>
 

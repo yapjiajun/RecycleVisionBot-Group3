@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-<h1 align="center"> RecycleVisionBot (Group 3) </h1>
+<h1 align="center"> RecycleVisionBot (Group 4) </h1>
 
 <p align="center">
   <i align="center">A Recycle Robot that uses ML/AI to sort through recyclables ♻️ </i>

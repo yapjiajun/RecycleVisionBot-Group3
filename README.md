@@ -103,6 +103,8 @@ End
 ### FCN Model Demo
 <img src="./.github/assets/fcn_demo.gif" width=100%>
 
+YouTube Link: https://youtu.be/isSXq3LtBTI
+
 - Images of final implementation
 - GIFs showcasing system in action
 - Embedded videos from YouTube
